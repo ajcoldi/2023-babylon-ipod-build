@@ -1,0 +1,6 @@
+node_modules/
+dist/
+build/
+out/
+*.bundle.js
+*.bundle.js.map
